@@ -1,0 +1,5 @@
+kubescaler
+Jinja2
+IPython
+pandas 
+seaborn

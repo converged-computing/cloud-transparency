@@ -1,0 +1,354 @@
+{
+    "create_cluster": 313.766,
+    "experiments": {
+        "node-pool-size-10": {
+            "times": {
+                "create_cluster_nodes": 65.498,
+                "delete_nodegroup": 162.298
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-10",
+            "size": 10,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-20": {
+            "times": {
+                "create_cluster_nodes": 92.874,
+                "delete_nodegroup": 147.802
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-20",
+            "size": 20,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-30": {
+            "times": {
+                "create_cluster_nodes": 86.766,
+                "delete_nodegroup": 174.478
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-30",
+            "size": 30,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-40": {
+            "times": {
+                "create_cluster_nodes": 95.628,
+                "delete_nodegroup": 177.614
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-40",
+            "size": 40,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-50": {
+            "times": {
+                "create_cluster_nodes": 117.279,
+                "delete_nodegroup": 177.426
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-50",
+            "size": 50,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-60": {
+            "times": {
+                "create_cluster_nodes": 107.772,
+                "delete_nodegroup": 186.533
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-60",
+            "size": 60,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-70": {
+            "times": {
+                "create_cluster_nodes": 297.391,
+                "delete_nodegroup": 189.629
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-70",
+            "size": 70,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-80": {
+            "times": {
+                "create_cluster_nodes": 86.514,
+                "delete_nodegroup": 192.86
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-80",
+            "size": 80,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-90": {
+            "times": {
+                "create_cluster_nodes": 95.677,
+                "delete_nodegroup": 202.068
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-90",
+            "size": 90,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-100": {
+            "times": {
+                "create_cluster_nodes": 93.344,
+                "delete_nodegroup": 199.054
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-100",
+            "size": 100,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-110": {
+            "times": {
+                "create_cluster_nodes": 102.013,
+                "delete_nodegroup": 214.214
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-110",
+            "size": 110,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-120": {
+            "times": {
+                "create_cluster_nodes": 108.06,
+                "delete_nodegroup": 204.92
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-120",
+            "size": 120,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-130": {
+            "times": {
+                "create_cluster_nodes": 118.904,
+                "delete_nodegroup": 220.08
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-130",
+            "size": 130,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-140": {
+            "times": {
+                "create_cluster_nodes": 129.203,
+                "delete_nodegroup": 223.285
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-140",
+            "size": 140,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-150": {
+            "times": {
+                "create_cluster_nodes": 126.705,
+                "delete_nodegroup": 229.512
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-150",
+            "size": 150,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        }
+    },
+    "start_time": "2024-03-26 15:17:55.818539",
+    "cluster_name": "resources-testing-cluster",
+    "delete_cluster": 238.848,
+    "end_time": "2024-03-26 16:39:00.083815"
+}

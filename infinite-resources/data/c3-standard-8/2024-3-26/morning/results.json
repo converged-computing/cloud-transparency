@@ -1,0 +1,294 @@
+{
+    "create_cluster": 347.126,
+    "experiments": {
+        "node-pool-size-10": {
+            "times": {
+                "create_cluster_nodes": 77.571,
+                "delete_nodegroup": 162.559
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-10",
+            "size": 10
+        },
+        "node-pool-size-20": {
+            "times": {
+                "create_cluster_nodes": 65.717,
+                "delete_nodegroup": 172.37
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-20",
+            "size": 20
+        },
+        "node-pool-size-30": {
+            "times": {
+                "create_cluster_nodes": 71.425,
+                "delete_nodegroup": 175.146
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-30",
+            "size": 30
+        },
+        "node-pool-size-40": {
+            "times": {
+                "create_cluster_nodes": 74.407,
+                "delete_nodegroup": 177.934
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-40",
+            "size": 40
+        },
+        "node-pool-size-50": {
+            "times": {
+                "create_cluster_nodes": 71.47,
+                "delete_nodegroup": 184.202
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-50",
+            "size": 50
+        },
+        "node-pool-size-60": {
+            "times": {
+                "create_cluster_nodes": 99.207,
+                "delete_nodegroup": 187.276
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-60",
+            "size": 60
+        },
+        "node-pool-size-70": {
+            "times": {
+                "create_cluster_nodes": 108.43,
+                "delete_nodegroup": 187.076
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-70",
+            "size": 70
+        },
+        "node-pool-size-80": {
+            "times": {
+                "create_cluster_nodes": 102.043,
+                "delete_nodegroup": 190.174
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-80",
+            "size": 80
+        },
+        "node-pool-size-90": {
+            "times": {
+                "create_cluster_nodes": 83.687,
+                "delete_nodegroup": 190.053
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-90",
+            "size": 90
+        },
+        "node-pool-size-100": {
+            "times": {
+                "create_cluster_nodes": 89.609,
+                "delete_nodegroup": 205.323
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-100",
+            "size": 100
+        },
+        "node-pool-size-110": {
+            "times": {
+                "create_cluster_nodes": 99.307,
+                "delete_nodegroup": 196.254
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-110",
+            "size": 110
+        },
+        "node-pool-size-120": {
+            "times": {
+                "create_cluster_nodes": 89.746,
+                "delete_nodegroup": 220.651
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-120",
+            "size": 120
+        },
+        "node-pool-size-130": {
+            "times": {
+                "create_cluster_nodes": 92.965,
+                "delete_nodegroup": 196.191
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-130",
+            "size": 130
+        },
+        "node-pool-size-140": {
+            "times": {
+                "create_cluster_nodes": 96.249,
+                "delete_nodegroup": 205.658
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-140",
+            "size": 140
+        },
+        "node-pool-size-150": {
+            "times": {
+                "create_cluster_nodes": 92.992,
+                "delete_nodegroup": 232.982
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c3-standard-8",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c3-standard-8",
+            "id": "node-pool-size-150",
+            "size": 150
+        }
+    },
+    "start_time": "2024-03-26 07:50:53.834600",
+    "cluster_name": "resources-testing-cluster",
+    "delete_cluster": 267.812,
+    "end_time": "2024-03-26 10:34:42.991608"
+}

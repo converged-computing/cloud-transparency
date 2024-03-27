@@ -1,0 +1,354 @@
+{
+    "create_cluster": 307.173,
+    "experiments": {
+        "node-pool-size-10": {
+            "times": {
+                "create_cluster_nodes": 99.059,
+                "delete_nodegroup": 171.601
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-10",
+            "size": 10,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-20": {
+            "times": {
+                "create_cluster_nodes": 80.448,
+                "delete_nodegroup": 177.637
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-20",
+            "size": 20,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-30": {
+            "times": {
+                "create_cluster_nodes": 80.417,
+                "delete_nodegroup": 174.374
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-30",
+            "size": 30,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-40": {
+            "times": {
+                "create_cluster_nodes": 89.659,
+                "delete_nodegroup": 183.747
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-40",
+            "size": 40,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-50": {
+            "times": {
+                "create_cluster_nodes": 132.402,
+                "delete_nodegroup": 195.823
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-50",
+            "size": 50,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-60": {
+            "times": {
+                "create_cluster_nodes": 117.274,
+                "delete_nodegroup": 186.901
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-60",
+            "size": 60,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-70": {
+            "times": {
+                "create_cluster_nodes": 117.167,
+                "delete_nodegroup": 183.839
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-70",
+            "size": 70,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-80": {
+            "times": {
+                "create_cluster_nodes": 132.48,
+                "delete_nodegroup": 214.638
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-80",
+            "size": 80,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-90": {
+            "times": {
+                "create_cluster_nodes": 139.468,
+                "delete_nodegroup": 236.161
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-90",
+            "size": 90,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-100": {
+            "times": {
+                "create_cluster_nodes": 159.962,
+                "delete_nodegroup": 266.886
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-100",
+            "size": 100,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-110": {
+            "times": {
+                "create_cluster_nodes": 166.324,
+                "delete_nodegroup": 260.054
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-110",
+            "size": 110,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-120": {
+            "times": {
+                "create_cluster_nodes": 233.288,
+                "delete_nodegroup": 287.463
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-120",
+            "size": 120,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-130": {
+            "times": {
+                "create_cluster_nodes": 208.875,
+                "delete_nodegroup": 312.229
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-130",
+            "size": 130,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-140": {
+            "times": {
+                "create_cluster_nodes": 230.432,
+                "delete_nodegroup": 336.827
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-140",
+            "size": 140,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        },
+        "node-pool-size-150": {
+            "times": {
+                "create_cluster_nodes": 224.179,
+                "delete_nodegroup": 361.019
+            },
+            "metadata": {
+                "plan": {
+                    "instance": "c2d-standard-56",
+                    "sizes": {
+                        "min": 10,
+                        "max": 150,
+                        "increment": 10
+                    }
+                }
+            },
+            "machine_type": "c2d-standard-56",
+            "id": "node-pool-size-150",
+            "size": 150,
+            "day": "2024-3-26",
+            "tag": "afternoon",
+            "failure_create": 0,
+            "failure_delete": 0
+        }
+    },
+    "start_time": "2024-03-26 16:53:39.280813",
+    "cluster_name": "resources-testing-cluster",
+    "delete_cluster": 352.226,
+    "end_time": "2024-03-26 18:35:32.154849"
+}
